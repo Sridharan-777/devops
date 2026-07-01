@@ -8,4 +8,4 @@ Practice code
 Complete internship task.
 Practice chess openings.
 Solve chess puzzles.
-check the exam schedule.
+
