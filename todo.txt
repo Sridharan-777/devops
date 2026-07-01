@@ -9,3 +9,4 @@ Complete internship task.
 Practice chess openings.
 Solve chess puzzles.
 
+Solving makes clear.
